@@ -1,6 +1,7 @@
 # todolist
 Todo List Web App
 This is a simple web application for creating and managing todo lists. It uses Node.js with the Express framework for the backend, MongoDB as the database, and EJS as the templating engine for the frontend.
+![Screenshot (353)](https://github.com/DhyanBhandari/todolist/assets/109520497/7c0cde7e-acc2-4d04-acb4-0da8fa50ecdd)
 
 
 # Installation and Setup
